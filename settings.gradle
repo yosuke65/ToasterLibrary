@@ -1,0 +1,3 @@
+include ':myToasterLibrary'
+include ':app'
+rootProject.name = "CreateLibrary"
